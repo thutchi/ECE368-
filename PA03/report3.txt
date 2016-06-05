@@ -1,0 +1,59 @@
+Input 0:
+Width: 6.488700e+04
+Height: 9.299900e+04
+X-coordinate: 0.000000e+00
+Y-coordinate: 0.000000e+00
+
+Elapsed Time: 0.000000e+00
+
+Input 1:
+Width: 1.663549e+06
+Height: 1.812356e+06
+X-coordinate: 1.425763e+06
+Y-coordinate: 0.000000e+00
+
+Elapsed Time: 0.000000e+00
+
+Input 2:
+Width: 3.411589e+06
+Height: 4.923995e+06
+X-coordinate: 5.193600e+05
+Y-coordinate: 0.000000e+00
+
+Elapsed Time: 0.000000e+00
+
+Input 3:
+Width: 9.793506e+06
+Height: 2.573651e+06
+X-coordinate: 9.637800e+05
+Y-coordinate: 2.320255e+06
+
+Elapsed Time: 0.000000e+00
+
+Input 4:
+Width: 9.653391e+06
+Height: 1.018544e+07
+X-coordinate: 7.987561e+06
+Y-coordinate: 3.441761e+06
+
+Elapsed Time: 0.000000e+00
+
+Input 5:
+Width: 2.745456e+07
+Height: 1.320092e+07
+X-coordinate: 2.447639e+07
+Y-coordinate: 1.683258e+06
+
+Elapsed Time: 0.000000e+00
+
+
+Input 6:
+Width: 1.100000e+01
+Height: 1.500000e+01
+X-coordinate: 9.000000e+00
+Y-coordinate: 0.000000e+00
+
+Elapsed Time: 0.000000e+00
+
+The Space Complexity and run time are O(n) . The space complexity is given from the amount of memory needed to be allocated. The time complexity is given from the tree traversal given O(4n -1) 
+ignoring the constants you are given a time complexity of O(n).

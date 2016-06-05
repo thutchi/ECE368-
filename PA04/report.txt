@@ -1,0 +1,44 @@
+Input0:
+Best width: 1.100000e+01
+Best height: 8.000000e+00
+
+Elapsed time for re-rooting: 0.000000e+00
+
+Input1:
+Best width: 1.560376e+06
+Best height: 1.881875e+06
+
+Elapsed time for re-rooting: 1.000000e-02
+
+Input2:
+Best width: 2.622907e+06
+Best height: 4.923995e+06
+
+Elapsed time for re-rooting: 1.000000e-02
+
+Input3:
+Best width: 8.618902e+06
+Best height: 2.728840e+06
+
+Elapsed time for re-rooting: 1.000000e-02
+
+Input4:
+Best width: 9.515508e+06
+Best height: 1.018544e+07
+
+Elapsed time for re-rooting: 1.000000e-01
+
+Input5:
+Best width: 2.286623e+07
+Best height: 1.365289e+07
+
+Elapsed time for re-rooting: 3.000000e-01
+
+Input6:
+Best width: 1.300000e+01
+Best height: 1.100000e+01
+
+Elapsed time for re-rooting: 0.000000e+00
+
+
+The Space complexity is O(n) this is given from the amount of memory that needs to be allocated. The time complexity is given from the tree traversal while performing the necassary rerooting which is also given as O(n).

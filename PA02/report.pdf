@@ -1,0 +1,11 @@
+Number of Integers    I/O time   Sorting Time
+10                     0s          0s
+100                    0s          0s
+1000                   0s          0s
+100000                .004s       .007s
+1000000               .3s         1.68s
+10000000              2.9s        27s
+100000000             31s         7.8min
+
+
+The run time of the in out run time is O(n) and the sorting time is O(n^2). The space complexity of my program is O(nlog(n^2)) that is due to the intialization of the linked list of lists and the code use to traverse the triangle.The implementation of linked lists makes the run times a lot slower than project1 in project1 the sorting time for 1 million numbers is .44s and for project2 it is 1.68s. 

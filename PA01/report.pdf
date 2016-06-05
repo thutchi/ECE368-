@@ -1,0 +1,65 @@
+sorting 1000 numbers;
+Insertion: 
+# of comparisons = 4.74e3
+# of moves = 5.469e4
+I/O time = 0
+Sorting Time = 0
+
+Selection: 
+# of comparisons = 1.46e6
+# of moves = 3.72e4
+I/O time = 0
+Sorting time = 0
+
+
+sorting 10000 numbers;
+Insertion: 
+# of comparisons = 7.02e4
+# of moves = 9.132e5
+I/O time = 0
+Sorting Time = 0
+
+Selection: 
+# of comparisons = 1.491e8
+# of moves = 5.86e5
+I/O time = 0
+Sorting time = 1.5e-1
+
+
+sorting 100000 numbers;
+Insertion: 
+# of comparisons = 9.72e5
+# of moves = 1.36e7
+I/O time = 3e-2
+Sorting Time = 3e-2
+
+Selection: 
+# of comparisons = 1.49e10
+# of moves = 8.47e6
+I/O time = 3e-2
+Sorting time = 1.469e1
+
+sorting 1000000 numbers;
+Insertion: 
+# of comparisons = 1.27e7
+# of moves = 1.899e8
+I/O time = 2.5e-1
+Sorting Time = 4.4e-1
+
+Selection: 
+# of comparisons = NA
+# of moves = NA
+I/O time = NA
+Sorting time = NA
+
+Analysis of the time and space complexity for sequences:
+the time complexity of the time and space complexity is size + 1 because it depends mainly on the Load and Save files. 
+
+Anaylis of run_time, number of comparisons and number of moves 
+The run time increases on the order of n^2 for the selection and for insertion sort it is about the order of n^(3/2). the number of comparisons for both increase on the order of n^2. and the number of moves increases on the order of n. 
+
+Space complexity of sorting
+The space complexity of the insertion sort and the selection is is O(n).  
+
+Anaylis of th inefficency of Selection Sort.
+Selection Sort is so inefficent because the number of moves and comparisons is so much more than that of insertion sort. And the when you get down to gap = 1 if you to sort more than that of the insertion sort which makes the efficencey of the program reduce greatly. 
